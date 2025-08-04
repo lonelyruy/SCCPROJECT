@@ -1,0 +1,13 @@
+ Volume in drive C is Acer
+ Volume Serial Number is 40A6-9DCB
+
+ Directory of C:\Users\sxglk\Desktop\SCC\selflearning\practical_1
+
+08/04/2025  06:52 PM    <DIR>          .
+08/04/2025  06:25 PM    <DIR>          ..
+08/04/2025  06:32 PM               400 cli.html
+08/04/2025  06:51 PM                28 cli.txt
+08/04/2025  06:47 PM               814 cli2.txt
+08/04/2025  06:52 PM                 0 cli3.txt
+               4 File(s)          1,242 bytes
+               2 Dir(s)   4,245,831,680 bytes free
